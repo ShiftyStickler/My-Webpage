@@ -6,8 +6,8 @@
 }
 
 :root {
-  --color-primary: #191d2b;
-  --color-secondary: #27AE60;
+  --color-primary: #2E0249;
+  --color-secondary: #F806CC;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #F56692;
+  --color-secondary: #A91079;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -126,7 +126,7 @@ section {
 
 .theme-btn {
   top: 5%;
-  right: 3%;
+  right: 1%;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -397,7 +397,7 @@ section {
 }
 
 .port-text {
-  padding: 2rem 0;
+  padding: 3rem 0;
   text-align: center;
 }
 
